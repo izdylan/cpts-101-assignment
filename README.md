@@ -1,2 +1,3 @@
 # cpts-101-assignment
-dylan
+Dylan Zepeda 
+dylan.zepeda@wsu.edu
